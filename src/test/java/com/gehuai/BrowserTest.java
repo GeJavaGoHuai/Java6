@@ -11,6 +11,7 @@ public class BrowserTest extends BaseTest {
 
     @Test
     void browserTest() {
+
         driver.get("https://home.testing-studio.com");
     }
 }
